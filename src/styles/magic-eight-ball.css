@@ -1,0 +1,17 @@
+html {
+  font-family: "Noto Sans Mono", monospace;
+  text-align: center;
+  background-color: "#181818";
+}
+
+#fortune-container {
+  background-color: blue;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+#fortune-text {
+  color: whitesmoke;
+  padding: 5px;
+  margin: 5px;
+}
